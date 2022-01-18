@@ -7,5 +7,6 @@ When finished:
     - docker-compose down
 
 Ports: 
+
     - Server : 5050
     - Client : 8080
